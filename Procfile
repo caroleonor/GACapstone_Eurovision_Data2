@@ -1,1 +1,1 @@
-web: gunicorn Eurovision_Main:server
+web: gunicorn app:server
