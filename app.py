@@ -37,7 +37,7 @@ app.layout=html.Div([
     html.Div([
         html.Div(id='Tabs-content'),],className='twelve columns',style={'marginBottom':50,'marginTop':25}),
     html.Div([
-        html.A('see the code',href='https://github.com/caroleonor/GACapstone_Eurovision_Data'),
+        html.A('see the code',href='https://github.com/caroleonor/GACapstone_Eurovision_Data2'),
         html.Br(),
         html.A('data source',href='https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2019')]),
 
