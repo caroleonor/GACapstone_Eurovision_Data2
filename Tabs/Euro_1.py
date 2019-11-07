@@ -4,7 +4,7 @@ import dash_html_components as html
 import plotly.graph_objs as go
 from dash.dependencies import Input, Output
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import os
 from pathlib import Path
 import plotly as py
